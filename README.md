@@ -23,10 +23,10 @@ All that one must do is contribute to any open source project and send atleast 4
 
 | Domain | Folder |
 |-------|---------|
-| Web Development | Text |
-| App Development | Text |
-| Machine Learning | Text |
-| Basic Programming | Text |
+| Web Development | [Go to the folder](https://github.com/ieeessitvit/Hacktober-Fest2021/tree/main/WebDev) |
+| App Development | [Go to the folder](https://github.com/ieeessitvit/Hacktober-Fest2021/tree/main/AppDev) |
+| Machine Learning | [Go to the folder](https://github.com/ieeessitvit/Hacktober-Fest2021/tree/main/Machine-Learning) |
+| Basic Programming | [Go to the folder](https://github.com/ieeessitvit/Hacktober-Fest2021/tree/main/Basic-Programming) |
 
 
 
