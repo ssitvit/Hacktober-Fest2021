@@ -35,5 +35,5 @@ All that one must do is contribute to any open source project and send atleast 4
 <br>
 <hr>
 <p align="center">
-	With :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
+	With :heart: &nbsp;by <a href="https://www.ssitvit.tech/" target="_blank">IEEE-SSIT VIT</a>
 </p>
