@@ -1,0 +1,77 @@
+html {
+    font-family: sans-serif;
+}
+
+.disable-select {    
+    user-select: none;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+    font-size: 4rem;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 6rem);
+    grid-template-rows: repeat(3, 6rem);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 1rem auto;
+}
+
+.square-grid {
+    border: 2px solid black;
+}
+
+.square-grid-mark {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4rem;
+}
+
+.player1-mark {
+    color: red;
+}
+
+.player2-mark {
+    color: blue;
+}
+
+#square-grid-0, #square-grid-1, #square-grid-2 {
+    border-top: none;
+}
+
+#square-grid-0, #square-grid-3, #square-grid-6 {
+    border-left: none;
+}
+
+#square-grid-2, #square-grid-5, #square-grid-8 {
+    border-right: none;
+}
+
+#square-grid-6, #square-grid-7, #square-grid-8 {
+    border-bottom: none;
+}
+
+.square-grid:hover {
+    background-color: #ddd;
+}
+
+#winner-heading {
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    margin: 1rem auto;
+}
+
+@media screen and (max-width: 420px) {
+    h1 {
+        font-size: 3rem;
+    }
+}
