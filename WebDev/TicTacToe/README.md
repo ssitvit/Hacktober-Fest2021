@@ -1,4 +1,4 @@
-#TicTacToe Game
+# TicTacToe Game
 
 This game is made using HTML, CSS and JavaScript.
 
