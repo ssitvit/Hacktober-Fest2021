@@ -14,7 +14,7 @@ int fact(int n){
 int fact2(int n)
 {
     int f = 1 ;
-    for (int i=0;i<n;i++)
+    for (int i=1;i<=n;i++)
     {
         f = f*i ;
     }
